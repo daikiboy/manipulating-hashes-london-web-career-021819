@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  groceries.collect #code your solution here!
+  groceries.value #code your solution here!
 
   
 
